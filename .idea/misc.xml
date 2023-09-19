@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DESKTOP-RPL02-PC34/AndroidStudioProjects/prtlbrtaml/app/src/main/res/layout/activity_berita.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/DESKTOP-RPL02-PC34/AndroidStudioProjects/prtlbrtaml/app/src/main/res/layout/activity_komentar.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/DESKTOP-RPL02-PC34/AndroidStudioProjects/prtlbrtaml/app/src/main/res/layout/activity_main.xml" value="0.18725490196078431" />
+        <entry key="..\:/Users/DESKTOP-RPL02-PC34/AndroidStudioProjects/prtlbrtaml/app/src/main/res/layout/fragment_berita.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/DESKTOP-RPL02-PC34/AndroidStudioProjects/prtlbrtaml/app/src/main/res/layout/fragment_home.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/DESKTOP-RPL02-PC34/AndroidStudioProjects/prtlbrtaml/app/src/main/res/layout/fragment_komentar.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/DESKTOP-RPL02-PC34/AndroidStudioProjects/prtlbrtaml/app/src/main/res/layout/fragment_login.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/DESKTOP-RPL02-PC34/AndroidStudioProjects/prtlbrtaml/app/src/main/res/layout/fragment_register.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/DESKTOP-RPL02-PC34/AndroidStudioProjects/prtlbrtaml/app/src/main/res/layout/layout_header_drawer.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/DESKTOP-RPL02-PC34/AndroidStudioProjects/prtlbrtaml/app/src/main/res/layout/list_berita.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/DESKTOP-RPL02-PC34/AndroidStudioProjects/prtlbrtaml/app/src/main/res/layout/list_komentar.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/DESKTOP-RPL02-PC34/AndroidStudioProjects/prtlbrtaml/app/src/main/res/menu/menu_navigation.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
